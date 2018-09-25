@@ -1,0 +1,14 @@
+Write a program that utilizes a ProfessorRating class. A professor has a first name, last name,
+university, easiness grade, and a helpfulness grade. Grades range from 0 to 5.
+The ProfessorRating class must have two constructors. One that allows instantiation of an object
+with just first name, last name and university. It will assign a default of 3 for the grades. The
+second constructor allows instantiation using first name, last name, university and the two
+grades.
+The ProfessorRating class must not allow a first name or last name to be changed after
+instantiation.
+The university should be examined or changed using only a property.
+The grades should both have accessor and mutator methods.
+The ProfessorRating class should have a display method that shows all attributes in an
+appropriate format.
+The ProfessorRating should have a ToString() method and the Main() method should
+demonstrate that it works properly.
