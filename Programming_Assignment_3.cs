@@ -1,5 +1,5 @@
 ﻿/*  
-    Programmer:Jon DeFrees
+    Programmer:
     Date: 9/17/2018(Last Update: 9/21/2018
     Program: This program has 2 classes the first of which calls to the second and runs the display method after completeion. The second class either
     allows the user to input a students first, and last names, as well as their university, and assigns default grades of 3. Or the user can input first,
